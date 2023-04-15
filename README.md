@@ -6,7 +6,7 @@
 <a href = "https://www.linkedin.com/in/andre-luiz-de-lima-60877a220"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-#### 📚 Tec. Em Informatica-INT pelo CEPB (Colégio Estadual de Pato Branco) 3º Série Manhã
+#### 📚 Tec. Em Informatica-INT pelo CEPB (Colégio Estadual de Pato Branco) 4º Série Manhã
 
 #### 🌎🏠 Pato Branco, Paraná, Brasil 
 
