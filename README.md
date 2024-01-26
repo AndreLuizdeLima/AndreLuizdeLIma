@@ -10,7 +10,7 @@
 
 #### 🌎🏠 Pato Branco, Paraná, Brasil 
 
-#### 👨‍💻💻 SAG Software Agroindustrial - Suporte 
+
 
 <br>
 
