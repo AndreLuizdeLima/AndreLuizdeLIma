@@ -15,6 +15,12 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizdeLima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuizdeLima&show_icons=true&locale=pt-br)  
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=quimicaaocubo)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=Exemplos_de_Scritps_Powershell_e_Bat)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=win_key_disable)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=script_wifi_connecter)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Skills:
 
