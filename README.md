@@ -14,7 +14,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizdeLima&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizdeLima&layout=compact&locale=pt-br)]()
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuizdeLima&show_icons=true&locale=pt-br)  
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=quimicaaocubo)](https://github.com/AndreLuizdeLima/quimicaaocubo)
