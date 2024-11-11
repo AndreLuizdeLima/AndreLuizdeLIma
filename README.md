@@ -14,13 +14,13 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizdeLima&layout=compact&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizdeLima&layout=compact&locale=pt-br&hide=html)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuizdeLima&show_icons=true&locale=pt-br)  
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=quimicaaocubo)](https://github.com/AndreLuizdeLima/quimicaaocubo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=Exemplos_de_Scritps_Powershell_e_Bat)](https://github.com/AndreLuizdeLima/Exemplos_de_Scritps_Powershell_e_Bat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=win_key_disable)](https://github.com/AndreLuizdeLima/win_key_disable)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=script_wifi_connecter)](https://github.com/AndreLuizdeLima/script_wifi_connecter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=java_poo_rpg)](https://github.com/AndreLuizdeLima/java_poo_rpg)
 ---
 ### Skills:
 
