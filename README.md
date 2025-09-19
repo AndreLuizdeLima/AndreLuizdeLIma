@@ -19,7 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=quimicaaocubo)](https://github.com/AndreLuizdeLima/quimicaaocubo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=Exemplos_de_Scritps_Powershell_e_Bat)](https://github.com/AndreLuizdeLima/Exemplos_de_Scritps_Powershell_e_Bat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=win_key_disable)](https://github.com/AndreLuizdeLima/win_key_disable)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=RPG_de_turno_Java_POO)](https://github.com/AndreLuizdeLima/java_poo_rpg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=APS-Gerenciamento-Locacao)](https://github.com/AndreLuizdeLima/APS-Gerenciamento-Locacao)
 ---
 ### Skills:
 
