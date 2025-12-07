@@ -12,7 +12,7 @@
 
 
 <br>
-
+<!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuizdeLima&layout=compact&locale=pt-br&hide=html)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuizdeLima&show_icons=true&locale=pt-br&rank_icon=github)  
 <br>
@@ -20,7 +20,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=Exemplos_de_Scritps_Powershell_e_Bat)](https://github.com/AndreLuizdeLima/Exemplos_de_Scritps_Powershell_e_Bat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=win_key_disable)](https://github.com/AndreLuizdeLima/win_key_disable)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AndreLuizdeLima&repo=APS-Gerenciamento-Locacao)](https://github.com/AndreLuizdeLima/APS-Gerenciamento-Locacao)
+-->
+
 ---
+
 ### Skills:
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
